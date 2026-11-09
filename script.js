@@ -1,6 +1,6 @@
 
 // ==========================================
-// FIND-ME KAZI DIGITAL SERVICES
+// PYREX DIGITAL SOLUTIONS 
 // Main JavaScript File
 // ==========================================
 
@@ -34,7 +34,7 @@ if (menuBtn && nav) {
 const whatsappNumber = "254182000479";
 
 const whatsappMessage =
-  "Hello FIND-ME KAZI DIGITAL SERVICES. I would like to enquire about your digital services.";
+  "Hello PYREX DIGITAL SOLUTIONS . I would like to enquire about your digital services.";
 
 const encodedMessage = encodeURIComponent(whatsappMessage);
 
@@ -82,11 +82,11 @@ document.querySelectorAll('a[href^="#"]').forEach(function (link) {
 // 5. WEBSITE READY MESSAGE
 
 console.log(
-  "FIND-ME KAZI DIGITAL SERVICES website loaded successfully."
+  " PYREX DIGITAL SOLUTIONS  website loaded successfully."
 );
 
 /* ==================================
-   FIND-ME KAZI QUOTE REQUEST SYSTEM
+   PYREX DIGITAL SOLUTIONS  QUOTE REQUEST SYSTEM
    ================================== */
 
 const quoteForm = document.getElementById("quoteForm");
@@ -132,7 +132,7 @@ if (quoteForm) {
 
     const message =
 `NEW PROJECT ENQUIRY
-FIND-ME KAZI DIGITAL SERVICES
+PYREX DIGITAL SOLUTIONS 
 
 Client Name: ${name}
 
